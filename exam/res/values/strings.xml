@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    
+    <string name="welcome">Welcome</string>
+    <string name="welreg_btn">Register</string>
+    <string name="wellog_btn">Login</string>
+    
+    
+    <string name="register">Register</string>
+    <string name="reg_username">Username</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_pwrd">Password</string>
+    <string name="reg_display">Display</string>
+    <string name="reg_back">Back</string>
+    
+    
+ <string name="log_Email">Email</string>
+ <string name="log_Password">Password</string>
+ <string name="log_Verify">Verify</string>
+ <string name="log_back">Back</string>
+</resources>
